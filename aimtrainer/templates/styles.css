@@ -1,0 +1,17 @@
+* {
+    user-select: none;
+}
+
+body{
+    background-color: #000;
+}
+.target {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+    background-color: red;
+}
+.scoreboard {
+    color: #fff;
+    font-size: 1.6em;
+}
